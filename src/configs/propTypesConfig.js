@@ -1,0 +1,1 @@
+//propTypesConfig.js

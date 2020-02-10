@@ -1,0 +1,1 @@
+// iconsConfig.js
